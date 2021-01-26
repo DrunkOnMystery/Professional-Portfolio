@@ -1,0 +1,137 @@
+ /* General layout margins */
+ html {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+/* Set background image */
+#app {
+    background: url("https://hosting.photobucket.com/images/i/DrunkOnMystery/Sunrise(1).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+}
+/* Color and styling for the main header */
+#header {
+    background-color: darkslategrey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    min-width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#footer {
+    background-color: darkslategrey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    min-width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* Push my name to the left */
+h1 {
+    float: left;
+}
+
+/* Styling for the card container on the portfolio page */
+.card-container {
+    margin-top: 15%;
+    min-width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+/* CSS for the main text block on the index page */
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    min-width: 100%;
+}
+/* CSS for the main column on the index page */
+.col {
+    max-width: 100%;
+}
+/* styling for the text block on the index page */
+.about-me-text {
+    margin: 2.5%;
+    line-height: 2.1;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Styling for the picture of me with my son, Will */
+#me-and-will {
+    margin-right: 10%;
+    width: 30%;
+    float: right;
+    padding-left: 20px;
+}
+/* Styling for the picture of me with my son, Nate */
+#me-and-nate {
+    width: 30%;
+    float: left;
+    padding-right: 20px;
+    margin-left: 10%;
+}
+
+#Ben_and_Mandy_Div {
+    text-align: center;
+}
+
+#me-and-Mandy {
+    width: 40%;
+    float: right;
+}
+
+/* Styling for the main form data on the contact page, lines 73-89 */
+.contact-div {
+    margin: 20px;
+    line-height: 2.5;
+    text-align: left;
+}
+
+.form {
+    /* margin-top: 20px; */
+    padding-top: 20px;
+}
+
+input {
+    padding: 12px, 20px;
+    width: 80%;
+    border: 2px, solid, grey;
+}
+
+textarea {
+    width: 80%;
+    resize: both;
+    overflow: auto;
+}
+/* Styling for the cards on the portfolio page, lines 88-113 */
+.card-img-top {
+    max-width: 300px;
+    height: 250px;
+}
+
+.card {
+    max-width: 300px;
+    height: 500px;
+    overflow: auto;
+    margin: 30px;
+}
+
+.row {
+    margin-right: 30px;
+    margin-left: 30px;
+    justify-content: center;
+}
+
+.card-body {
+    background-color: transparent;
+}
+
+.img-fluid {
+    overflow: auto;
+    max-width: auto;
+    max-height: 500px;
+}

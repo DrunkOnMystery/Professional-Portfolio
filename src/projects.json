@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Pet Pals",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/PetPals.PNG",
+        "url": "https://calm-falls-93556.herokuapp.com/",
+        "github": "https://github.com/eschiavoni2/Project3",
+        "description": "A web app for pet owners to track and update information about their pets and their spending on those pets. ",
+        "technologies": "HTML, CSS, Javascript, ReactJS, MongoDB, Express, NodeJS. "
+    },
+    {
+        "title": "MovieDine",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/MovieDine.PNG",
+        "url": "https://tintin92.github.io/MovieDine/",
+        "github": "https://github.com/DrunkOnMystery/MovieDine",
+        "description": "A group project in which we attempted to create a page where one could search for streaming film and tv option and also find local restaurants. ",
+        "technologies": "HTML, CSS, Javascript, Axios. "
+    },
+    {
+        "title": "Alientown",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/Alientown.PNG",
+        "url": "http://mega-awesome.herokuapp.com/",
+        "github": "https://github.com/DrunkOnMystery/alientown",
+        "description": "A group project in which we created an interactive and searchable database in mysql of UFO sightings. ",
+        "technologies": "HTML, CSS, Javascript, SQL. "
+    },
+    {
+        "title": "Day Planner",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/DayPlanner(1).PNG",
+        "url": "https://drunkonmystery.github.io/Day-Planner/",
+        "github": "https://github.com/DrunkOnMystery/Day-Planner",
+        "description": "A day planner in which each hour is color coded, relative to the current time. ",
+        "technologies": "HTML, CSS, Javascript. "
+    },
+    {
+        "title": "Weather Dashboard",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/WeatherDashboard(1).PNG",
+        "url": "https://drunkonmystery.github.io/Weather-Dashboard/?",
+        "github": "https://github.com/DrunkOnMystery/Weather-Dashboard",
+        "description": "An interactive website that provides weather forecasts by city name using APIs. ",
+        "technologies": "HTML, CSS, Javascript, Axios. "
+    },
+    {
+        "title": "MySQL Employee Tracker",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/Employee_Tracker(1).PNG",
+        "url": "https://drive.google.com/file/d/14bRtn-lsl4itscxhgUtw_zJ4Lc5AFiZG/view",
+        "github": "https://github.com/DrunkOnMystery/employee_tracker",
+        "description": "This project is a MySQL database program designed to allow a manager to edit their employee database through the terminal console. ",
+        "technologies": "HTML, CSS, Javascript, SQL. "
+    }
+]
